@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/marcelo7bastos/dados_aberto_pgc_pca/blob/main/img/gestao_gov_br.jpg" alt="MGI" style="width:10%;">
+  <img src="https://github.com/marcelo7bastos/dados_aberto_pgc_pca/blob/main/img/gestao_gov_br.jpg" alt="MGI" style="width:20%;">
   <img src="https://github.com/marcelo7bastos/dados_aberto_pgc_pca/blob/main/img/open-datasets-seges.png" alt="Open Datasets Seges" style="width:48%;">
 </p>
 
