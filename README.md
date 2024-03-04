@@ -1,6 +1,8 @@
 ![MGI](https://github.com/marcelo7bastos/dados_aberto_pgc_pca/blob/main/img/gestao_gov_br.jpg)
 
-![Open Datasets Seges](https://github.com/marcelo7bastos/dados_aberto_pgc_pca/blob/main/open-datasets-seges.png)
+![Open Datasets Seges](https://github.com/marcelo7bastos/dados_aberto_pgc_pca/blob/main/img/open-datasets-seges.png)
+
+
 
 # dados_aberto_pgc_pca
 
